@@ -1,0 +1,10 @@
+dev-ops-labs_accessKeys.csv
+terraform.tfvars
+.terraform
+.terraform.lock.hcl
+terraform.tfstate.backup
+id_rsa
+id_rsa.pub
+dataSources-code
+dev-terraform.tfvars
+dev
