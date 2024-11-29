@@ -1,0 +1,5 @@
+access-key    = "paste your aws access key here"
+secret-key    = "paste secret key here"
+region        = "us-east-1"
+image-name    = "paste iamge id here"
+instance_type = "paste instance type"
