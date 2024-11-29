@@ -18,7 +18,12 @@ terraform fmt
 terraform validate
 <br/>
 terraform apply --auto-approve
+<br/>
+NOTE: To migrate the tfstate file again into your local machine comment/delete the terraform (backend) block and just run the following command;
+<br/>
+terraform init -migrate-state
 </p>
+
 
 
 
