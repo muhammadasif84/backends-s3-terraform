@@ -3,7 +3,7 @@
 <h3>Creating terraform backends for remote .tfstate file access using s3 bucket</h3>
 
 <h4>Please follow these following steps to setup backend tfstate file on remote aws s3-bucket</h4>
-<h6>NOTE: You should create first s3-bucket to run this code</h6>
+<h6>NOTE: To run this code you must have s3-bucket created first</h6>
 <p>
 1- Clone Repo 
 <br/>
